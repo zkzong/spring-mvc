@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/log-spring/spring-mvc-log4j" />
+    <file type="web" url="file://$PROJECT_DIR$/log-spring/spring-mvc-logback" />
+    <file type="web" url="file://$PROJECT_DIR$/security/shiro/shiro-spring/shiro-atguigu/shiro-spring-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/security/shiro/shiro-spring/shiro-captcha" />
+    <file type="web" url="file://$PROJECT_DIR$/security/shiro/shiro-spring/shiro-kickout" />
+    <file type="web" url="file://$PROJECT_DIR$/security/shiro/shiro-spring/shiro-session-manage" />
+    <file type="web" url="file://$PROJECT_DIR$/security/shiro/shiro-spring/shiro-simple-example" />
+    <file type="web" url="file://$PROJECT_DIR$/security/spring-security/spring-security-spring/springsecurity-customloginform-annotation" />
+    <file type="web" url="file://$PROJECT_DIR$/security/spring-security/spring-security-spring/springsecurity-customloginform-xml" />
+    <file type="web" url="file://$PROJECT_DIR$/security/spring-security/spring-security-spring/springsecurity-helloworld-annotation" />
+    <file type="web" url="file://$PROJECT_DIR$/security/spring-security/spring-security-spring/springsecurity-helloworld-xml" />
+    <file type="web" url="file://$PROJECT_DIR$/security/spring-security/spring-security-spring/springsecurity-hibernate" />
+    <file type="web" url="file://$PROJECT_DIR$/security/spring-security/spring-security-spring/springsecurity-hibernate-annotation" />
+    <file type="web" url="file://$PROJECT_DIR$/security/spring-security/spring-security-spring/springsecurity-limit-login" />
+    <file type="web" url="file://$PROJECT_DIR$/security/spring-security/spring-security-spring/springsecurity-limit-login-annotation" />
+    <file type="web" url="file://$PROJECT_DIR$/security/spring-security/spring-security-spring/springsecurity-loginform-database" />
+    <file type="web" url="file://$PROJECT_DIR$/security/spring-security/spring-security-spring/springsecurity-loginform-database-annotation" />
+    <file type="web" url="file://$PROJECT_DIR$/security/spring-security/spring-security-spring/springsecurity-password-hashing" />
+    <file type="web" url="file://$PROJECT_DIR$/security/spring-security/spring-security-spring/springsecurity-remember-me" />
+    <file type="web" url="file://$PROJECT_DIR$/security/spring-security/spring-security-spring/springsecurity-remember-me-annotation" />
+    <file type="web" url="file://$PROJECT_DIR$/spring/servlet3.0" />
+    <file type="web" url="file://$PROJECT_DIR$/spring/springmvc-annotation" />
+    <file type="web" url="file://$PROJECT_DIR$/spring/springmvc/chapter1" />
+    <file type="web" url="file://$PROJECT_DIR$/spring/springmvc/filter" />
+    <file type="web" url="file://$PROJECT_DIR$/spring/springmvc/log4j-spring" />
+    <file type="web" url="file://$PROJECT_DIR$/spring/springmvc/modelattribute" />
+    <file type="web" url="file://$PROJECT_DIR$/spring/springmvc/mvc" />
+    <file type="web" url="file://$PROJECT_DIR$/spring/springmvc/springmvc-hibernate" />
+    <file type="web" url="file://$PROJECT_DIR$/spring/springmvc/springmvc-mybatis/seckill-ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/spring/springmvc/swagger2-spring" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
