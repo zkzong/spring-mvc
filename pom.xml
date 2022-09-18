@@ -19,7 +19,8 @@
     <modules>
         <module>spring</module>
         <module>security</module>
-        <module>log-spring</module>
+        <module>log</module>
+        <module>dubbo</module>
         <module>skywalking</module>
     </modules>
 
