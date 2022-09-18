@@ -22,6 +22,10 @@
         <module>log</module>
         <module>dubbo</module>
         <module>skywalking</module>
+
+        <module>rabbitmq-spring</module>
+        <module>rabbitmq-spring-producer</module>
+        <module>rabbitmq-spring-consumer</module>
     </modules>
 
 </project>
